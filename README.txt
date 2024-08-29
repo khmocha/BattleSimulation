@@ -1,3 +1,6 @@
+# DESCRIPTION
+Simulation of a turn-based, card battle on the terminal. Intended as a testing demo and partial template for the actual game on Unity. Everything is subjected to change and may not be included in the finalized game. 
+
 # HOW TO USE
 To run the battle simulation, please refer to the instructions in the Executable.sh file.
 
