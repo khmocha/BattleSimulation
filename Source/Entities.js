@@ -1,5 +1,5 @@
-const Allies = {
-    A: {
+const Allies = [
+    {
         Name: "Main Character",
         Side: "Allies",
         Health: 100,
@@ -10,10 +10,10 @@ const Allies = {
         ],
         CardsInHand: []
     }
-};
+];
 
-const Enemies = {
-    B: {
+const Enemies = [
+    {
         Name: "Enemy 1",
         Side: "Enemies",
         Health: 100,
@@ -24,6 +24,6 @@ const Enemies = {
         ],
         CardsInHand: []
     }
-};
+];
 
 module.exports = { Allies, Enemies };
